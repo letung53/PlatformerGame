@@ -40,8 +40,8 @@ public class Playing extends State implements Statemethods {
 	private boolean paused = false;
 
 	private int xLvlOffset;
-	private int leftBorder = (int) (0.25 * Game.GAME_WIDTH);
-	private int rightBorder = (int) (0.75 * Game.GAME_WIDTH);
+	private int leftBorder = (int) (0.40 * Game.GAME_WIDTH);
+	private int rightBorder = (int) (0.60 * Game.GAME_WIDTH);
 	private int maxLvlOffsetX;
 
 	private BufferedImage backgroundImg, bigCloud, smallCloud, shipImgs[];
