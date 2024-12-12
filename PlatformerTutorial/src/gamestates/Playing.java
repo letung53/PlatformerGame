@@ -476,6 +476,6 @@ public class Playing extends State implements Statemethods {
 	@Override
 	public void mouseClicked(MouseEvent e) {
 		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Unimplemented method 'mouseClicked'");
+		//throw new UnsupportedOperationException("Unimplemented method 'mouseClicked'");
 	}
 }
