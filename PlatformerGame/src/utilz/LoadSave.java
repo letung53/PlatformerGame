@@ -11,6 +11,10 @@ import javax.imageio.ImageIO;
 
 public class LoadSave {
 
+	public static final String SHEEP_BOUNCING = "HappySheep_Bouncing.png";
+	public static final String SHEEP_IDLE = "HappySheep_Idle.png";
+
+
 	public static final String PLAYER_ATLAS = "player_sprites.png";
 	public static final String LEVEL_ATLAS = "outside_sprites.png";
 	public static final String MENU_BUTTONS = "button_atlas.png";
