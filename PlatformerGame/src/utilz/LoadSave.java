@@ -14,6 +14,21 @@ public class LoadSave {
 	public static final String SHEEP_BOUNCING = "HappySheep_Bouncing.png";
 	public static final String SHEEP_IDLE = "HappySheep_Idle.png";
 
+	public static final String LEVEL1  = "level_1.png";
+	public static final String LEVEL2  = "level_2.png";
+	public static final String LEVEL3  = "level_3.png";
+	public static final String LEVEL4  = "level_4.png";
+	public static final String LEVEL5  = "level_5.png";
+	public static final String LEVEL6  = "level_6.png";
+	public static final String LEVEL7  = "level_7.png";
+	public static final String LEVEL8  = "level_8.png";
+	public static final String LEVEL9  = "level_9.png";
+	public static final String LEVEL10 = "level_10.png";
+	public static final String LEVEL11 = "level_11.png";
+	public static final String LEVEL12 = "level_12.png";
+	public static final String LEVEL13 = "level_13.png";
+	public static final String LEVEL14 = "level_14.png";
+	public static final String LEVEL15 = "level_15.png";
 
 	public static final String PLAYER_ATLAS = "player_sprites.png";
 	public static final String LEVEL_ATLAS = "outside_sprites.png";
@@ -25,6 +40,8 @@ public class LoadSave {
 	public static final String VOLUME_BUTTONS = "volume_buttons.png";
 	public static final String MENU_BACKGROUND_IMG = "background_menu.png";
 	public static final String PLAYING_BG_IMG = "playing_bg_img.png";
+	public static final String PLAYING_BG_IMG2 = "playing_bg_img_2.png";
+	public static final String PLAYING_BG_IMG3 = "playing_bg_img_3.png";
 	public static final String BIG_CLOUDS = "big_clouds.png";
 	public static final String SMALL_CLOUDS = "small_clouds.png";
 	public static final String CRABBY_SPRITE = "crabby_sprite.png";
@@ -50,6 +67,7 @@ public class LoadSave {
 	public static final String WATER_TOP = "water_atlas_animation.png";
 	public static final String WATER_BOTTOM = "water.png";
 	public static final String SHIP = "ship.png";
+
 
 	public static BufferedImage GetSpriteAtlas(String fileName) {
 		BufferedImage img = null;
